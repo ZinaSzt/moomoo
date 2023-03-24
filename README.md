@@ -1,11 +1,8 @@
 # moomoo
-php index.php
-  ------------------
-< Bonjour les gueux! >
-  ------------------
-          \   ^__^
-           \  (^^)\_______
+Aide à la validation pour les correcteurs : Clonez le repository github et tapez uniquement composer install puis faite la command php index.php:
+
+              ^__^
+              (^^)\_______
               (__)\       )\/\
                U  ||----- |
                   ||     || %                                                                                                       
-➜  moomoo git:(main) 
